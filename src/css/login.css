@@ -1,0 +1,126 @@
+#content-top-left{
+    color: black;
+}
+hr{
+    margin: 0;
+    margin-top: 10px;
+}
+.big-content{
+    width: 90%;
+    /* background: red; */
+    margin: auto;
+    margin-top: 40px;
+}
+.content-top{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    font-size: 32px;
+    color: white;
+    align-items: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.content-center{
+    margin-bottom: 40px;
+}
+.content-center-inside input{
+    /* border: none; */
+    background: burlywood;
+    border-radius: 50px;
+    border: none;
+    width: 90%;
+    height: 80px;
+    /* margin-top: 90px; */
+    margin: auto;
+    display: block;
+    margin-bottom: 40px;
+    padding-left: 8px;
+}
+.content-center-inside button{
+    width: 90%;
+    height: 80px;
+    margin: auto;
+    /* display: inline-block; */
+    display: block;
+    font-size: 32px;
+    color: white;
+    background: bisque;
+    border: none;
+    margin-bottom: 20px;
+}
+.forget{
+    display: table;
+    margin: auto;
+    margin-bottom: 40px;
+}
+
+ 
+.forget hr{
+    float: left;
+    width: 80px
+}
+.forget span{
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.other-login-center{
+    display: flex;
+    justify-content: space-around;
+}
+.other-img{
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    background: lightblue;
+}
+#one{
+    width: 80px;
+    /* display: inline-block; */
+    display: block;
+    margin-left: 130px;
+    margin-bottom: 20px;
+}
+#input3{
+    background: burlywood;
+    /* border-radius: 50px; */
+    border: none;
+    width: 90%;
+    height: 80px;
+    /* margin-top: 90px; */
+    margin: auto;
+    display: block;
+    margin-bottom: 40px;
+    padding-left: 8px;
+border-radius: none;
+}
+/* .iconfont{
+    font-size: 53px;
+    color: green;
+} */
+.icon-weixin{
+    color: green;
+}
+.icon-QQ{
+    color: #7BD4EF
+}
+.icon-weibo{
+    color: red;
+}
+.van-search__content{
+    border-radius: 40px;
+}
+.van-search .van-cell{
+    height: 60px;
+}
+.van-field__left-icon{
+    line-height: 60px;
+}
+.van-field__control[type=search]{
+    line-height: 60px;
+}
+/* .van-tabs__content{
+    padding-left: 72px;
+    padding-right: 72px;
+} */

@@ -1,0 +1,57 @@
+/* .big-box{
+   padding-top: 40px;
+} */
+.conetent-center{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.van-tabs__nav--line:nth-child(1){
+    justify-content: end!important;
+}
+.van-tab{
+    font-size: 30px;
+}
+.tp{
+    width: 20%;
+}
+.tp img{
+    width: 100%;
+}
+.tp-tp{
+    display: flex;
+    justify-content: space-between;
+}
+.ss{
+    display: flex;
+    /* justify-content: space-between; */
+    /* width: 360px; */
+}
+.ss p{
+    /* width: 200px; */
+    margin-left: 20px;
+    color: gray
+}
+.conetent-center-header-content span{
+    color: gray;
+    font-size: 25px;
+    margin-bottom: 20px;
+    display: block;
+}
+.van-tab__text--ellipsis{
+    overflow: initial;
+}
+.van-search .van-cell{
+    font-size: 30px;
+}
+.van-field__left-icon .van-icon, .van-field__right-icon .van-icon{
+    font-size: 30px;
+}
+.van-search .van-cell{
+    height: auto;
+}
+.van-search__action{
+    font-size: 30px;
+}
+.van-info{
+    font-size: 17px;
+}
