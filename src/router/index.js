@@ -7,6 +7,8 @@ import firstpage from '@/components/firstpage';
 import register from '@/components/register';
 import content from '@/components/content';
 import trya from '@/components/trya';
+import tryb from '@/components/tryb'
+import tryc from '@/components/tryc'
 
 Vue.use(Router)
 
@@ -43,6 +45,16 @@ export default new Router({
       path: '/trya',
       name: 'trya',
       component: trya
-    }
+    },
+    {
+      path: '/tryb',
+      name: 'tryb',
+      component: tryb
+    },
+    {
+      path: '/tryc',
+      name: 'tryc',
+      component: tryc
+    },
   ]
 })
